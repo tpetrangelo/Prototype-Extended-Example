@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 
 
-namespace PrototypeStructuralExample
+namespace PrototypeExtendedExample
 {
     class Program
     {

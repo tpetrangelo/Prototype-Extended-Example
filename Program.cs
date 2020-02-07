@@ -37,7 +37,9 @@ namespace PrototypeStructuralExample
                 Console.WriteLine("Engine Power: {0}", airplane.AirplaneEnginePower);
                 Console.WriteLine("Plane Length: {0}", airplane.AirplaneWeight);
             }
-            
+                Console.WriteLine("=======================");
+
+
         }
     }
 
